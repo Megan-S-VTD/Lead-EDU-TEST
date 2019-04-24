@@ -1,36 +1,41 @@
-## Lead EDU
+# Lead EDU
 
 An interactive teaching tool for lead exposure education in schools.
 
+## What is Lead EDU?
 
-### Markdown
+Lead Ed is a multi-user experience that allows a whole class of students to understand lead contamination and prevention techniques for lead poisoning. Lead Ed utilizes the video game, Minecraft, and the customization capabilities of the game to create a fun and educational experience. Students will encounter topics such as; nutrition, lead poisoning, sources of lead contamination, and ways to handle and reduce lead exposure levels.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Students play as a child helping their friend be cured of his case of lead poisoning. Throughout their play-through, students must also monitor their own lead contamination levels to prevent themselves from getting lead poisoning as well. 
 
-```markdown
-Syntax highlighted code block
+This experience comes in two formats, based on how long teachers wish to have the lesson. There is a shorter 15 minute experience and a 1 hour long experience. 
 
-# Header 1
-## Header 2
-### Header 3
+### About Us
 
-- Bulleted
-- List
+We are a team of Univeristy of Idaho students in collaboration with Panhandle Health to create an educational experience about lead contamination and lead exposure in the Silver Valley area of Idaho. 
+The inital team consisted of Austin Brayman and Dylan Luchini, both of whom have since graduated. Our current team is Megan Schleich, Garret Lowe, and Jared Christensen.
 
-1. Numbered
-2. List
+#### Requirements to Use
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Minecraft Java Version. Minecraft Windows 10 Version and Minecraft Education Version is not compatible with our world and modpack
+- A computer capable of running Minecraft, further details can be found at [Link] (https://help.mojang.com/customer/en/portal/articles/325948-minecraft-java-edition-system-requirements)
+- Java
+- Minecraft Forge (a link to download provided under our downloads section)
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Megan-S-VTD/Test-to-figure-out-what-I-am-doing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Insturctions to Download
 
-### Support or Contact
+Provide a pdf here with a dl walkthrough
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### Download Our Build
+
+Link to our UPDATED files
+
+####### Walkthrough 
+
+Provide a video walkthrough of the finished build
+
+######## In-game Screenshots
