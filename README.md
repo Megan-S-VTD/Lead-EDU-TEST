@@ -30,12 +30,12 @@ The inital team consisted of Austin Brayman and Dylan Luchini, both of whom have
 
 Provide a pdf here with a dl walkthrough
 
-###### Download Our Build
+##### Download Our Build
 
 Link to our UPDATED files
 
-####### Walkthrough 
+###### Walkthrough 
 
 Provide a video walkthrough of the finished build
 
-######## In-game Screenshots
+###### In-game Screenshots
