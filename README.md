@@ -39,3 +39,5 @@ Link to our UPDATED files
 Provide a video walkthrough of the finished build
 
 ###### In-game Screenshots
+
+Up-to-date screenshot slide show or thumbnails people can click on to enlarge?
