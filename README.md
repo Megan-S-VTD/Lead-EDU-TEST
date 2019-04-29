@@ -40,5 +40,8 @@ Provide a video walkthrough of the finished build
 
 ###### In-game Screenshots
 
-Up-to-date screenshot slide show or thumbnails people can click on to enlarge?
+I need up-to-date screenshots
 
+![alt text](screenshots/MC%201.png)
+![alt text](screenshots/MC%204.png)
+![alt text](screenshots/MC%205.png)
