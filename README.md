@@ -41,4 +41,4 @@ Provide a video walkthrough of the finished build
 ###### In-game Screenshots
 
 Up-to-date screenshot slide show or thumbnails people can click on to enlarge?
-[!(https://github.com/Megan-S-VTD/Lead-EDU-TEST/blob/master/_photos/MC%201.png)]
+!(_photos/MC%201.png)
