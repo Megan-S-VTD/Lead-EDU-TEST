@@ -20,7 +20,7 @@ The inital team consisted of Austin Brayman and Dylan Luchini, both of whom have
 ```
 
 - Minecraft Java Version. Minecraft Windows 10 Version and Minecraft Education Version is not compatible with our world and modpack
-- A computer capable of running Minecraft, further details can be found [HERE](https://help.mojang.com/customer/en/portal/articles/325948-minecraft-java-edition-system-requirements/)
+- A computer capable of running Minecraft, further details can be found [HERE](https://help.mojang.com/customer/en/portal/articles/325948-minecraft-java-edition-system-requirements)
 - Java
 - Minecraft Forge (a link to download provided under our downloads section)
 
